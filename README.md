@@ -26,7 +26,7 @@ A Chrome Extension and accompanying backend that injects an AI-powered "Reply" b
 * **Backend**
 
   * Java 11+
-  * Spring Boot
+  * Spring Boot, Spring Ai
   * Maven for build and dependency management
   *  Integration with OpenAI or another LLM
 
