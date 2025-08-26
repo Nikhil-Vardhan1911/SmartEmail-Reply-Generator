@@ -51,7 +51,7 @@ A Chrome Extension and accompanying backend that injects an AI-powered "Reply" b
 1. Clone the repo and navigate to `backend`:
 
    ```bash
-   git clone <>
+   git clone https://github.com/Nikhil-Vardhan1911/SmartEmail-Reply-Generator.git
    cd <repo>/backend
    ```
 2. Configure CORS in `application.properties` or via a WebConfig to allow `http://localhost:3000` (if testing with a local frontend).
