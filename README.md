@@ -88,7 +88,7 @@ A Chrome Extension and accompanying backend that injects an AI-powered "Reply" b
 3. Wait for the button to show **Generating...**, then resume.
 4. The generated reply will be inserted into your compose box.
 
-## 🧑‍🏫 Development
+## 🧑‍🏫 Development 
 
 * **Backend**: Run your IDE (IntelliJ/Eclipse) against the `backend` module. Use Postman/cURL to test:
 
