@@ -19,7 +19,7 @@ A Chrome Extension and accompanying backend that injects an AI-powered "Reply" b
 ## 🛠️ Tech Stack
 
 * **Frontend (Chrome Extension)**
-  * React,Material Ui, Mutation Observer,CSS
+  * React,Material Ui, Mutation Observer,CSS,HTML
   * JavaScript (ES6+)
   * Chrome Extension Content Scripts & Manifest V3
   * DOM Manipulation & `fetch` API
