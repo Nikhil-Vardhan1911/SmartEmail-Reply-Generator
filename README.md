@@ -9,7 +9,7 @@ A Chrome Extension and accompanying backend that injects an AI-powered "Reply" b
 
   * Injects an **AI Reply** button into Gmail’s compose toolbar using a content script and `MutationObserver`.
   * Reads current email content via DOM selectors.
-  * Allows users to choose a tone (e.g., Professional, Friendly, Casual).
+  * Allows users to choose a tone (e.g., Professional, Friendly, Casual)
 * **Backend API**
 
   * Built with **Java** and **Spring Boot**.
