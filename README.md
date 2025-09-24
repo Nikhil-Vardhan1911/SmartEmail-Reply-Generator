@@ -14,7 +14,7 @@ A Chrome Extension and accompanying backend that injects an AI-powered "Reply" b
 
   * Built with **Java** and **Spring Boot**.
   * Exposes a `POST /api/email/generate` endpoint that accepts `{ emailContent, tone }`.
-  * Integrates with an AI model (or mock logic) to generate replies.
+  * Integrates with an AI model (or mock logic) to generate replies
 
 ## 🛠️ Tech Stack
 
