@@ -12,7 +12,7 @@ A Chrome Extension and accompanying backend that injects an AI-powered "Reply" b
   * Allows users to choose a tone (e.g., Professional, Friendly, Casual)
 * **Backend API**
 
-  * Built with **Java** and **Spring Boot**.
+  * Built with **Java**,**Spring Boot**,Spring AI.
   * Exposes a `POST /api/email/generate` endpoint that accepts `{ emailContent, tone }`.
   * Integrates with an AI model (or mock logic) to generate replies
 
